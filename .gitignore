@@ -1,0 +1,13 @@
+# ide
+.vscode
+
+.idea
+.settings
+.project
+.classpath
+
+target
+*.iml
+log
+npm-debug.log
+.DS_Store
